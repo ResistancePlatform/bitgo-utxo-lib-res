@@ -167,9 +167,9 @@ module.exports = {
       public: 0x043587cf,
       private: 0x04358394
     },
-    pubKeyHash: 0x1c0c,
-    scriptHash: 0x1c13,
-    wif: 0xef,
+    pubKeyHash: 0x1b97,
+    scriptHash: 0x1b9c,
+    wif: 0x80,
     coin: coins.RES
   }
 }
